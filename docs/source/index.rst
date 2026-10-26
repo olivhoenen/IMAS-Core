@@ -106,6 +106,7 @@ Documentation Structure
 
     user_guide/index
     developers/index
+    specification/index
     troubleshooting
     faq
 

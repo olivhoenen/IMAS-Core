@@ -31,3 +31,8 @@ the specific problem. Inspect the full status message for details.
 The C API provides the numeric status code and a detailed error message. 
 Other language interfaces may return this status or report it as an
 exception.
+
+.. seealso::
+
+   :doc:`../specification/errors` specifies which status code each
+   function returns in each error case.
